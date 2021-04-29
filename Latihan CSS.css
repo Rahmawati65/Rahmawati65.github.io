@@ -1,0 +1,21 @@
+body { 
+background-color: DarkSeaGreen }
+h1 {
+font-family:"brush script MT";
+font size: 24px;
+text-align: center;
+}
+h2 {font-family:"brush script MT";
+font size: 16px;
+text-align: center;
+}
+h5 {
+	font-family: "Century gothic"
+	font size:13px;
+	text-align: left;
+}
+p {
+	font-family: "times new roman"
+	font size:13px;
+	text-align: left;
+}
